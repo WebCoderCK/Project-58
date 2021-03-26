@@ -1,0 +1,42 @@
+body {
+	  text-align: center;
+	  background-color: #f0e8c5;
+	}
+
+	div {
+	  margin-top: 15px;
+	}
+
+	.image-section {
+	  display: flex;
+	  justify-content: center;
+	}
+
+	.section-style {
+	  margin-right: 25px;
+	  margin-left: 25px;
+	  background-color: white;
+	}
+
+img{
+    width: 50%;
+}
+
+<ul class="menu">
+    <li class="link"> About </li>
+    <li class="link"> My favorite books </li>
+    <li class="link"> My work </li>
+    <li class="link"> Insparation </li>
+    <li class="link"> Contact </li>
+</ul>
+
+.men{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px
+    cursor: pointer;
+    color: black;
+}
+
